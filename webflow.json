@@ -7,11 +7,9 @@
     }
   },
   "library": {
-    "components": [
-      "**/*.webflow.@(js|jsx|mjs|ts|tsx)"
-    ],
-    "id": "webflow-code-components",
-    "name": "webflow-code-components",
+    "components": ["**/*.webflow.@(js|jsx|mjs|ts|tsx)"],
+    "id": "webflow-code-test",
+    "name": "webflow-code-test",
     "description": ""
   }
 }
